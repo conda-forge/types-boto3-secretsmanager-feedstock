@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "1.43.0"
+  version: "1.44.0"
 
 package:
   name: types-boto3-secretsmanager
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/t/types-boto3-secretsmanager/types_boto3_secretsmanager-${{ version }}.tar.gz
-  sha256: 434a90cd08c4e5d25ca6139caa6a737454c62f95dfff924b00d951d4c6736706
+  sha256: 28afb56b36a1060ed3bd8d96b4bbf6d54bb4ff1cd78a735a24523f1179c5ddea
 
 build:
   number: 0
